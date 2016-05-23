@@ -1,0 +1,11 @@
+{
+  "name": "anagramgame",
+  "description": "anangramgame",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/InsomniacSabbir/anagrammatix"
+}
